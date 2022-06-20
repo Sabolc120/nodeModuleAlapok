@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.16"
+  },
+  "name": "elso",
+  "version": "1.0.0",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

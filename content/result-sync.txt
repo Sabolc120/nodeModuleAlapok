@@ -1,0 +1,1 @@
+Here is the result of file writing Hello this is second text file  
